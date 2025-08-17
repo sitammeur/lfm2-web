@@ -248,7 +248,7 @@ function App() {
               <br />
               Want to learn more? Check out the source code on{" "}
               <a
-                href="https://github.com/sitamgithub-MSIT/qwen-web"
+                href="https://github.com/sitammeur/lfm2-web"
                 target="_blank"
                 rel="noreferrer"
                 className="underline"

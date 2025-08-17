@@ -78,6 +78,7 @@ async function generate(messages) {
     // Sampling
     do_sample: false,
     temperature: 0.3,
+    repetition_penalty: 1.05,
 
     max_new_tokens: 512,
     streamer,
