@@ -53,8 +53,8 @@ The project is structured as follows:
 
 To get started with this project, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/sitamgithub-MSIT/qwen-web.git`
-2. Change the directory: `cd qwen-web`
+1. Clone the repository: `git clone https://github.com/sitammeur/lfm2-web.git`
+2. Change the directory: `cd lfm2-web`
 3. Install the required dependencies: `npm install`
 4. Run the application: `npm run dev`
 
